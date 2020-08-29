@@ -4,3 +4,5 @@
 -> help color <display the list of colors in CMD>
 -> attrib +h +s +r (hides a folder not to be visible)
 -> attrib -h -s -r (unhides a folder be visible)
+-> title <name_of_the_new_title> (change the name of the title of the Command Prompt)
+
