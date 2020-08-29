@@ -1,4 +1,3 @@
 	BASIC COMMANDS
 -> mkdir <folder_name>
 -> rmdir <folder_name>
-->
