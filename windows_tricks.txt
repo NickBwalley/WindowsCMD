@@ -1,3 +1,6 @@
 	COOLS TRICKS AND THINGS YOU CAN DO WITH THE WINDOWS CMD
 -> mkdir <dir_name>
 -> Cipher /E
+-> help color <display the list of colors in CMD>
+-> attrib +h +s +r (hides a folder not to be visible)
+-> attrib -h -s -r (unhides a folder be visible)
