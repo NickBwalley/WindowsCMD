@@ -1,0 +1,3 @@
+	COOLS TRICKS AND THINGS YOU CAN DO WITH THE WINDOWS CMD
+-> mkdir <dir_name>
+-> Cipher /E
